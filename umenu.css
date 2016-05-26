@@ -1,0 +1,65 @@
+body
+{
+background-size: 700px 700px;
+background-repeat:no-repeat;
+background-align:center;
+
+}
+#main
+
+
+{
+margin:5px 5px 5px 5px;
+
+
+height:50px;
+
+width:97%;
+
+
+background-color:red;
+
+
+border:4px solid green;
+
+
+
+
+}
+
+#pizza
+{
+
+position:relative;
+float:left;
+font-family:Cursive;
+}
+#Contact
+{positon:relative;
+float:right;
+padding-right:10px;
+font-family:Monotype Corsiva,Cursive;
+}
+#get
+{positon:relative;
+float:right;
+padding-right:20px;
+font-family:Monotype Corsiva,Cursive;
+}
+#About
+{positon:relative;
+float:right;
+padding-right:20px;
+font-family:Monotype Corsiva,Cursive;
+}
+a
+{text-decoration:none;
+color:black;
+}
+a:hover
+{text-decoration:none;
+color:white;
+}
+span
+{color:white;
+}
